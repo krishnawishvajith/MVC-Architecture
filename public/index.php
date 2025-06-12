@@ -1,3 +1,3 @@
 <?php
-    echo "This is MVC Architecture";
+    require_once '../app/bootloader.php';
 ?>
